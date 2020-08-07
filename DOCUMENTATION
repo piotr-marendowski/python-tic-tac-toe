@@ -1,4 +1,10 @@
-Game base on Python, you can play on console by clicking on game file. Game will be update soon as possible. Thanks for all support!
+Game written in Python, execute in console on Windows operating system.
+
+Installation:
+1. Go to latest-verisions folder
+2. Click on .exe file
+3. Click Download button 
+If You want to download all versions included .md, .py and .exe files click Download ZIP
 
 Patch notes:
 Version 1:
@@ -14,3 +20,9 @@ I rebuilded game from developer's side, now it's better to code
 Small changes and fixes
 Version 3:
 Work in progress
+
+If you have any issue about this project, please write in Issue section on GitHub.
+
+Repository is open source, there will be no consequences for software dissemination.
+
+Game will be update as soon as possible. Thanks for all support
