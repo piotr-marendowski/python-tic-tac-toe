@@ -4,7 +4,7 @@ def tictactoe():
 
     def welcome():
 
-        greet = input("Hi, this is the first generation of tic tac toe made by Piotr Marendowski,\n"
+        greet = input("Hi, this is the first generation of tic tac toe made by NiceMan1337,\n"
                       "don't worry in next versions I will add something fresh.\n"
                       "To play you need a numeric keyboard (use numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9)\n"
                       "Start? (y/n): ")
