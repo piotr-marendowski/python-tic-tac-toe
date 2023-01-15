@@ -1,0 +1,26 @@
+Game written in Python, execute in console on Windows operating system.
+
+Installation:
+1. Go to latest-verisions folder
+2. Click on .exe file
+3. Click Download button 
+If You want to download all versions included .md, .py and .exe files click Download ZIP
+
+Patch notes:
+Version 1:
+This is first version of game with lots of bugs, it's very unstable, but playable.
+Version 2:
+I reduced size of game (from 8,5 MB to 8,468 MB)
+I fixed ValueError problem
+I fixed start problem (now you can only click "y" or quit from game)
+I created infinite loops in part of choices where to put marker when player chooses digit instead number
+I added draw option in case when no one wins game
+I changed icon to game
+I rebuilded game from developer's side, now it's better to code
+Small changes and fixes
+
+If you have any issue about this project, please write in Issue section on GitHub.
+
+Repository is open source, there will be no consequences for software dissemination.
+
+DEVELOPMENT ENDED - Thanks for all support
